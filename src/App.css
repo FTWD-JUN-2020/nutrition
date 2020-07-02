@@ -13,6 +13,15 @@
   }
 }
 
+.btn {
+  border-radius: 25px; 
+  border: 1px darkblue; 
+  padding: 10px 30px; 
+  background: darkblue; 
+  color:#fff;
+  margin:5px 0px 10px 0px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +44,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.search {
+  width: 80%;
+  padding: 10px 0px;
+  margin-bottom: 20px;
 }
